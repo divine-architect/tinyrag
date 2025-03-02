@@ -6,7 +6,7 @@ with open("README.md",'r') as f:
 
 setup(
     name = "tinyrag",
-    version = "0.0.1",
+    version = "0.0.2",
     author = "divine-architect",
     author_email = "cybers.mail0@proton.me",
     description = ("Lightweight RAG implementation for all your LLM endpoints"),
